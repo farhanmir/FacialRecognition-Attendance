@@ -46,4 +46,3 @@ Evaluate performance using metrics like accuracy and precision. Fine-tune by adj
 3. Implement face detection, alignment, feature extraction, and recognition.
 4. Train the model with the dataset.
 5. Test the model with new images or video frames.
-6. Iterate and improve based on evaluation results and feedback.
