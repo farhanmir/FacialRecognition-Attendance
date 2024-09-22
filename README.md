@@ -1,6 +1,6 @@
 # Face Recognition Project
 
-This project uses OpenCV to implement facial recognition and track student attendance with date and time.
+This uses OpenCV to implement facial recognition and track student attendance with date and time.
 
 ## Overview
 
